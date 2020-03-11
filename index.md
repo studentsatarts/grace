@@ -15,3 +15,4 @@ vanilla
 # My favorite month is
 August
 
+![puppy_23](https://user-images.githubusercontent.com/59803854/76462305-731e1780-63af-11ea-967c-282015e88121.jpg)
